@@ -369,6 +369,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EPNS SNS Notifications](https://docs.epns.io/developers/developer-zone/receiving-notifications/sns-notifications) - SNS module for Push Delivery Nodes allows any developer to receive notifications, chats, or any other form of web3 communication directly to the platform they are building with the help of webhooks.
 * [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK enables developers to easily integrate GroupFi’s chatbox with their dApps on EVM chains
 
+
+#### Interoperability
+* [Reactive Network](https://dev.reactive.network/) – Fully on-chain, events-driven *if-this-then-that* EVM network for decentralized automation of on-chain workflows through enabling reactivity between contracts deployed either on the same or different chains. [GitHub](https://github.com/Reactive-Network) [Use Cases] (https://reactive.network/ecosystem)
+
 ### Distribution
 * [Meroku](https://github.com/merokudao/meroku) - A community owned dApp Store. Package, distribute your dApp without hosting costs.
 
@@ -536,6 +540,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
  * [Loom Network](https://github.com/loomnetwork)
 * [Polygon Network](https://docs.polygon.technology)
+
 
 #### Privacy / Confidentiality
 
